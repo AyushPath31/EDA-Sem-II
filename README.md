@@ -1,2 +1,6 @@
 # EDA-Sem-II
-This repository is for Semester 2 EDA Subject Assignments
+## Profile -
+
+Name : Ayush Pathare
+Branch : E&TC A2 [2025-29]
+PRN : 25070123166
