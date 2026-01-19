@@ -12,6 +12,7 @@ To study the basics of Python programming language, understand the Python execut
 
 ### Theory :  
 **Python** is a high-level, interpreted, and object-oriented programming language widely used for data analysis, machine learning, automation, and scientific computing.  
+<p align="center"><img width="300" alt="image" src="https://github.com/user-attachments/assets/50f9c455-bbb8-4b25-b498-2fe6b54332f7" /></p>
 
 ```Features of Python```
 * Simple and easy to learn and use
@@ -35,6 +36,8 @@ To study the basics of Python programming language, understand the Python execut
 * Suitable for beginners and professionals  
 
 ```Jupyter Notebook```  
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/fcbb6dc2-453d-491d-9019-7bdbe02806fa" />
+
 Feautures :  
 * Client-Server Applications
 * Edit Code on Web Browser
@@ -59,7 +62,9 @@ Advantages:
 * No installation required
 * Free GPU/TPU access
 * Easy collaboration
-* Runs in browser  
+* Runs in browser
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/84261a08-1045-4c8e-9636-823807027897" />
+
 Use Google Colab as primary platform to make a new NoteBook and run it as Jupyter File.
 
 ### Conclusion :  
