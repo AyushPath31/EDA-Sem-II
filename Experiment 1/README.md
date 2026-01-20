@@ -1,6 +1,10 @@
 # Experiment 1
 ## Introduction to Python and Installation of Jupyter Notebook using Anaconda
 
+Name - Ayush Pathare
+PRN - 25070123166
+Batch : ENTC A-2
+
 ### Aim :  
 To study the basics of Python programming language, understand the Python execution environment, install Python and Jupyter Notebook using Anaconda distribution, and explore various Python IDEs including Google Colab.  
 
