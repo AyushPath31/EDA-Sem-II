@@ -9,7 +9,7 @@
 - GitHub
 - VSCode
 
-### Thoery  
+### Theory  
 A list in Python is a built-in data structure used to store multiple values in a single variable. Lists are ordered, mutable, and can store different data types.
 
 **Creating a List**
