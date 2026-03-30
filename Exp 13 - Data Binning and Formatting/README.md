@@ -1,4 +1,4 @@
-# Experiment-14
+# Experiment-13
 ## Data Binning and Data Formatting in Python
 ---
 ### Aim  
