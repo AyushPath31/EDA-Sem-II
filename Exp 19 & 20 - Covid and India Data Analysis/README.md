@@ -56,9 +56,12 @@ This analysis will help us uncover key patterns regarding infection rates, fatal
 ### Part 5: Graphical Representation
 
   * **Action:** Construct visual models to illustrate viral transmission.
-  * **Details:** \* **Line Graphs:** Deployed to chart the exponential surge of confirmed cases chronologically.
+  * **Details:**  
+      * **Line Graphs:** Deployed to chart the exponential surge of confirmed cases chronologically.
       * **Bar Charts:** Utilized for side-by-side comparisons of recovery metrics or death tolls among different nations.
       * **Interactive Visualizations (Plotly):** Integrated to produce dynamic charts enabling users to hover and extract precise data points for specific locales.
+  <img width="656" height="295" alt="Screenshot 2026-04-20 184604" src="https://github.com/user-attachments/assets/95c3931f-ef85-4db4-8398-0a4d714669df" />
+
 
 ---
 
